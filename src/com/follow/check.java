@@ -5,6 +5,7 @@ public class check {
 		System.out.println("Git practice");
 		System.out.println("Second commit");
 		System.out.println("Third commit");
+		System.out.println("Fourth");
 	}
 
 }
